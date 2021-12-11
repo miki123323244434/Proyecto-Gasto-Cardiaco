@@ -1,0 +1,5 @@
+Para conocer nuestro gasto cardiaco precionamos el numero 2
+1.-Lo primero que aparece es una base de datos de lectura acerca de la cantidad de
+latidos por minuto de una persona dependiendo de su edad.
+2.-Automaticamente tenemos que agregar el numero de VS del paciente, posteriormente se escribe el numero de latidos por minutos del paciente.
+4.-Nos calcula el gasto cardiaco.

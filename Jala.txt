@@ -1,0 +1,9 @@
+   Marco de referencia latidos del corazon
+         EDAD	         Laidos por minuto
+  Nacimiento-6semanas	      120-140
+ 7 semanas-1 anualidad	      100-130
+     1-2 anualidad	      100-120
+     2-6 anualidad	       80-120
+     6-13 anualidad	       80-100
+    13-16 anualidad	       70-80
+   16 anualidad y mas	       60-80
